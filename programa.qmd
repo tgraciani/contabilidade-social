@@ -36,9 +36,10 @@ Este curso tem dois objetivos desenvolvidos paralelamente: o primeiro, em nível
 ::: {.refs-col}
 [Referências suplementares]{.rotulo}
 
+- IBGE (2004)
 - IBGE (2016)
-- IBGE (2024)
-- United Nations (2009)
+- IBGE (2026)
+- United Nations Statistics Division (2009)
 :::
 
 :::
@@ -51,6 +52,112 @@ Conceitos básicos da contabilidade social (agregado, identidade, fluxos e estoq
 
 :::
 
+::: {.callout-note collapse="true" appearance="simple" icon=false title="II.&nbsp;Balanço de Pagamentos"}
+
+::: {.refs}
+
+::: {.refs-col}
+[Referências básicas]{.rotulo}
+
+- Paulani e Braga (2020), Cap. 6
+- Feijó e Ramos (2017), Cap. 5
+:::
+
+::: {.refs-col}
+[Referências suplementares]{.rotulo}
+
+- 
+:::
+
+:::
+
+[Conteúdos]{.rotulo}
+
+::: {.ementa}
+Definição e princípios fundamentais do balanço de pagamentos (residência econômica e partida dobrada); estrutura do balanço de pagamentos (conta corrente, conta de capital e conta financeira); covenção de sinais e definição dos saldos; registro prático de operações; relações contábeis e articulação com o sistema de contas nacionais; implicações contábeis dos regimes cambiais na dinâmica de reservas; principais indicadores de vulnerabilidade e sustentabilidade externa da economia brasileira; outras estatísticas do setor externo (fluxo cambial; termos de troca; índices de comércio internacional).
+:::
+
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon=false title="III.&nbsp;Sistema Monetário"}
+
+::: {.refs}
+
+::: {.refs-col}
+[Referências básicas]{.rotulo}
+
+- Paulani e Braga (2020), Cap. 7, 8 e 9
+- Feijó e Ramos (2017), Cap. 6
+:::
+
+::: {.refs-col}
+[Referências suplementares]{.rotulo}
+
+- 
+:::
+
+:::
+
+[Conteúdos]{.rotulo}
+
+::: {.ementa}
+Definição funcional da moeda; definições preliminares (sistema emissor e público); definição dos agregados monetários; introdução às contas monetárias (balancetes do Banco Central e dos bancos comerciais); criação e destruição de meios de pagamento; funções do Banco Central e instrumentos clássicos de controle monetário (compulsório, redesconto de liquidez e mercado aberto); ; operacionalização da política monetária (mercado de reservas, meta da taxa Selic e taxa Selic efetiva); modelo do multiplicador monetário; Teoria Quantitativa da Moeda.
+:::
+
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon=false title="IV.&nbsp;Matriz Insumo-Produto"}
+
+::: {.refs}
+
+::: {.refs-col}
+[Referências básicas]{.rotulo}
+
+- Miller e Blair (2009), Cap. 1 e 2
+- Feijó e Ramos (2017), Cap. 9, 10 e 11
+:::
+
+::: {.refs-col}
+[Referências suplementares]{.rotulo}
+
+- 
+:::
+
+:::
+
+[Conteúdos]{.rotulo}
+
+::: {.ementa}
+Definição e estrutura dos dados de insumo-produto; articulação com o sistema de contas nacionais; principais fontes de dados brasileiras e internacionais; notação e relações fundamentais do modelo de Leontief; matriz de coeficientes técnicos e matriz inversa de Leontief; exemplos numéricos de estática comparativa; invertibilidade e condições de Hawkins-Simon; aproximação por série de potências; modelo aberto *versus* fechado para as famílias; análise de multiplicadores; índices de ligação de Rasmussen-Hirschman; introdução à análise de insumo-produto ambiental.
+:::
+
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon=false title="V.&nbsp;Indicadores do Mercado de Trabalho"}
+
+::: {.refs}
+
+::: {.refs-col}
+[Referências básicas]{.rotulo}
+
+- 
+:::
+
+::: {.refs-col}
+[Referências suplementares]{.rotulo}
+
+- 
+:::
+
+:::
+
+[Conteúdos]{.rotulo}
+
+::: {.ementa}
+Conceitos fundamentais da força de trabalho (população em idade de trabalhar, força de trabalho, ocupação, desocupação e desalento); métricas analíticas do mercado de trabalho (taxa de participação, taxa de desocupação e taxa composta de subutilização); pesquisa amostral contínua versus registro administrativo (PNAD Contínua *versus* Novo CAGED); indicadores de rendimento e custo do trabalho (rendimento médio real habitual *versus* efetivo e massa de rendimento real); modelagem da demanda e da oferta de trabalho; introdução à taxa natural de desemprego; introdução a indicadores sintéticos de bem-estar social.
+:::
+
+:::
 
 ## Bibliografia
 
