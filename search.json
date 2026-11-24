@@ -4,7 +4,7 @@
     "href": "materiais.html",
     "title": "Materiais",
     "section": "",
-    "text": "Todos os materiais do curso estão disponíveis em pastas do Google Drive, as quais podem ser acessadas aqui sem a necessidade de credenciais institucionais."
+    "text": "Todos os materiais do curso estão disponíveis em pastas do Google Drive, as quais podem ser acessadas sem a necessidade de credenciais institucionais."
   },
   {
     "objectID": "materiais.html#outras-fontes",
@@ -18,42 +18,42 @@
     "href": "index.html",
     "title": "Contabilidade Social",
     "section": "",
-    "text": "2027/1 · Prof. Thiago Graciani\nEsta página é o veículo oficial de comunicação do componente curricular Contabilidade Social ofertado em 2027/1 na Faculdade de Economia da UFMT (FE–UFMT). Para acompanhar os registros de frequência e notas, verifique o Portal Acadêmico da UFMT.\n\n\n\n\n\n\n\n\nPara consultar a data da próxima avaliação, verifique diretamente o calendário de avaliações.\n\n\n\n\nPor enquanto, não há avisos.\n\n\n\n\nAtendimentos devem ser agendados previamente por e-mail e ocorrerão na Sala 306, no bloco da Faculdade de Economia."
+    "text": "Esta página é o veículo oficial de comunicação do componente curricular Contabilidade Social ofertado em 2027/1 na Faculdade de Economia da UFMT (FE–UFMT). Para acompanhar os registros de frequência e notas, verifique o Portal Acadêmico da UFMT.\n2027/1 · Prof. Thiago Graciani"
   },
   {
     "objectID": "index.html#avisos",
     "href": "index.html#avisos",
     "title": "Contabilidade Social",
-    "section": "",
-    "text": "Para consultar a data da próxima avaliação, verifique diretamente o calendário de avaliações.\n\n\n\n\nPor enquanto, não há avisos."
+    "section": "Avisos",
+    "text": "Avisos\n\n\n\n\n\n\nPara consultar a data da próxima avaliação, verifique diretamente o calendário de avaliações.\n\n\n\n\nPor enquanto, não há avisos."
   },
   {
     "objectID": "index.html#atendimento",
     "href": "index.html#atendimento",
     "title": "Contabilidade Social",
-    "section": "",
-    "text": "Atendimentos devem ser agendados previamente por e-mail e ocorrerão na Sala 306, no bloco da Faculdade de Economia."
+    "section": "Atendimento",
+    "text": "Atendimento\nAtendimentos devem ser agendados previamente por e-mail e ocorrerão na Sala 306, no bloco da Faculdade de Economia."
   },
   {
     "objectID": "avaliacao.html",
     "href": "avaliacao.html",
     "title": "Avaliação",
     "section": "",
-    "text": "A avaliação é composta de quatro provas. Enquanto as três primeiras têm conteúdo não cumulativo, a última cobre o conteúdo de todo o semestre. Exclusivamente para a \\(P4\\), será permitida a consulta a uma folha de tamanho A4 com anotações escritas à mão pelo próprio estudante.\n\n\nMédia final\n\\[\nM = \\frac{P_1 + P_2 + P_3 + 3\\cdot P_4}{6}\n\\]"
+    "text": "A avaliação é composta por quatro provas (prosaicamente denominadas \\(\\text{P}_1\\), \\(\\text{P}_2\\), \\(\\text{P}_3\\) e \\(\\text{P}_4\\)). Enquanto as três primeiras são não cumulativas, a última cobre o conteúdo de todo o semestre. Exclusivamente para a \\(\\text{P}_4\\), é permitida a consulta a uma folha de tamanho A4 (frente e verso) com anotações escritas à mão pelo próprio estudante.\n\n\nCálculo da Média Semestral\n\\[\n\\text{MS} \\doteq \\frac{\\text{P}_1 + \\text{P}_2 + \\text{P}_3 + 3 \\cdot \\text{P}_4}{6}\n\\]"
   },
   {
     "objectID": "avaliacao.html#calendário",
     "href": "avaliacao.html#calendário",
     "title": "Avaliação",
     "section": "Calendário",
-    "text": "Calendário\n\n\n\n\n\n\n\n\nAvaliação\nData\nPeso\n\n\n\n\nP1\n31/03/2027\n1\n\n\nP2\n28/04/2027\n1\n\n\nP3\n26/05/2027\n1\n\n\nP4\n30/06/2027\n3\n\n\n\n\n\n\n\n\n\nAs datas das provas estão sujeitas a alteração. Fique atento a esta página e aos avisos dados em sala de aula."
+    "text": "Calendário\n\n\n\n\n\n\n\n\nAvaliação\nData\nPeso\n\n\n\n\n\\(\\text{P}_1\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_2\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_3\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_4\\)\nxx/xx/2027\n3\n\n\n\n\n\n\n\n\n\nAs datas das provas estão sujeitas a alteração. Fique atento a esta página e aos avisos dados em sala de aula."
   },
   {
     "objectID": "avaliacao.html#frequência",
     "href": "avaliacao.html#frequência",
     "title": "Avaliação",
     "section": "Frequência",
-    "text": "Frequência\nA frequência registrada no Portal Acadêmico da UFMT seguirá estritamente o registro feito por assinatura nas listas disponibilizadas em aula. Nos termos da Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas."
+    "text": "Frequência\nA frequência registrada no Portal Acadêmico da UFMT seguirá rigorosamente o registro de assinatura feito nas listas disponibilizadas durante o período de aula. Como previsto pela Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas."
   },
   {
     "objectID": "avaliacao.html#aprovação",
@@ -67,7 +67,7 @@
     "href": "avaliacao.html#segunda-chamada",
     "title": "Avaliação",
     "section": "Segunda Chamada",
-    "text": "Segunda Chamada\nSerá concedida a avaliação em segunda chamada apenas nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º)."
+    "text": "Segunda Chamada\nSerá concedida a avaliação em segunda chamada apenas sob justificativa baseada nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º)."
   },
   {
     "objectID": "programa.html",
