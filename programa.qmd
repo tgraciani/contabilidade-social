@@ -1,0 +1,57 @@
+---
+title: "Programa do Curso"
+---
+
+::: {.objetivos}
+
+::: {.objetivos-img}
+![](images/logo.svg){fig-alt="Retrato de Richard Stone"}
+
+::: {.legenda}
+Richard N. Stone (1913–1991)
+:::
+:::
+
+::: {.objetivos-texto}
+Este curso tem dois objetivos desenvolvidos paralelamente: o primeiro, em nível mais elementar, é aproximar o aluno dos dados macroeconômicos, elucidando "de onde vêm" e "como são feitos", para os interpretar corretamente em debates econômicos; o segundo é preparar o discente para o componente de *Macroeconomia I*, introduzindo-o às ideias básicas de modelagem (e distinguindo, na prática, as relações *entre os dados* e as relações *de Teoria Macroeconômica*).
+:::
+
+:::
+
+
+
+## Esrutura Programática
+
+::: {.callout-note collapse="true" appearance="simple" icon=false title="I. Sistema de Contas Nacionais"}
+
+::: {.refs}
+
+::: {.refs-col}
+[Referências básicas]{.rotulo}
+
+- Paulani e Braga (2020), Cap. 1, 3 e 4
+- Feijó e Ramos (2017), Cap. 1, 2, 3, 4 e 8
+:::
+
+::: {.refs-col}
+[Referências suplementares]{.rotulo}
+
+- IBGE (2016)
+- IBGE (2024)
+- United Nations (2009)
+:::
+
+:::
+
+[Conteúdos]{.rotulo}
+
+::: {.ementa}
+Conceitos básicos da contabilidade social (agregado, identidade, fluxos e estoques); fluxo circular da renda; três óticas do produto; identidade *versus* causalidade; modelo Keynesiano simples; outros agregados do sistema de contas nacionais; identidades contábeis fundamentais; contabilidade real *versus* nominal; deflator do produto; medidas derivadas do produto (PIB *per capita* e PIB PPC); aspectos práticos e limites da mensuração do produto; introdução às contas econômicas integradas; tabela de recursos e usos; sistema de contas trimestrais; especificidades do sistema de contas trimestrais (sazonalização e métricas de crescimento); introdução ao IBC-Br.
+:::
+
+:::
+
+
+## Bibliografia
+
+Nenhum livro-texto específico será "seguido". Para estudar com segurança, consulte as referências indicadas em cada tópico e os conteúdos abordados nas listas de exercícios. Todas as leituras citadas no programa detalhado estão disponíveis na pasta *Referências* da página de [Materiais](materiais.qmd).

@@ -1,0 +1,15 @@
+# Dados que mudam a cada disciplina/semestre.
+# Uso nas páginas: {{< var email >}}
+disciplina: "Contabilidade Social"
+semestre: "2027/1"
+professor: "Prof. Thiago Graciani"
+email: "graciani.ufmt@gmail.com"
+atendimento: "306"
+sala: "Faculdade de Economia"
+
+# Links das pastas do Google Drive
+drive_listas: "14f5yeP11sSHGoVO5u6L89eEOJz3zWM_M"
+drive_provas: "1nLqOAAAyAGLYTRmH03q69GsD07XU_IjA"
+drive_referencias: "1NG6Vv6_HZwIeVhMDbd1j59MdR6iK89ZA"
+drive_dados: "16w35_fZi1miW0xc3InZsECMfer2ET25c"
+

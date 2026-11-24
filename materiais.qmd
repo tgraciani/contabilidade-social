@@ -1,0 +1,45 @@
+---
+title: "Materiais"
+---
+
+Todos os materiais do curso estão disponíveis em pastas do *Google Drive*, as quais podem ser acessadas aqui sem a necessidade de credenciais institucionais.
+
+::: {.panel-tabset}
+
+## <i class="bi bi-book"></i> Referências
+
+<iframe class="drive-embed" loading="lazy"
+  src="https://drive.google.com/embeddedfolderview?id={{< var drive_referencias >}}#list"></iframe>
+
+[Abrir no Drive](https://drive.google.com/drive/folders/{{< var drive_referencias >}}){.btn .btn-outline-primary target="_blank"}
+
+## <i class="bi bi-pencil-square"></i> Listas de Exercícios
+
+<iframe class="drive-embed" loading="lazy"
+  src="https://drive.google.com/embeddedfolderview?id={{< var drive_listas >}}#list"></iframe>
+
+[Abrir no Drive](https://drive.google.com/drive/folders/{{< var drive_listas >}}){.btn .btn-outline-primary target="_blank"}
+
+## <i class="bi bi-bar-chart"></i> Dados
+
+<iframe class="drive-embed" loading="lazy"
+  src="https://drive.google.com/embeddedfolderview?id={{< var drive_dados >}}#list"></iframe>
+
+[Abrir no Drive](https://drive.google.com/drive/folders/{{< var drive_dados >}}){.btn .btn-outline-primary target="_blank"}
+
+## <i class="bi bi-file-earmark-text"></i> Provas
+
+<iframe class="drive-embed" loading="lazy"
+  src="https://drive.google.com/embeddedfolderview?id={{< var drive_provas >}}#list"></iframe>
+
+[Abrir no Drive](https://drive.google.com/drive/folders/{{< var drive_provas >}}){.btn .btn-outline-primary target="_blank"}
+
+:::
+
+## Outras Fontes
+
+- [IBGE / Sistema de Contas Nacionais](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais.html)
+- [IBGE / Banco de Tabelas Estatísticas do IBGE (SIDRA)](https://sidra.ibge.gov.br/acervo)
+- [BCB / Sistema Gerenciador de Séries Temporais (SGS)](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)
+- [CRAN / R Project](https://cran.r-project.org/)
+- [RStudio](https://posit.co/downloads)

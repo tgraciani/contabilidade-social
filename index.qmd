@@ -1,0 +1,24 @@
+---
+pagetitle: "Início"
+lightbox: true
+---
+
+# {{< var disciplina >}}
+
+{{< var semestre >}} · {{< var professor >}}
+
+Esta página é o veículo oficial de comunicação do componente curricular *{{< var disciplina >}}* ofertado em {{< var semestre >}} na Faculdade de Economia da UFMT (FE–UFMT). Para acompanhar os registros de frequência e notas, verifique o [Portal Acadêmico da UFMT](https://sistemas.ufmt.br/ufmt.portalsistemas).
+
+
+## Avisos
+
+::: {.callout-note appearance="simple" icon=false}
+Para consultar a data da próxima avaliação, verifique diretamente o [calendário de avaliações](avaliacao.qmd).
+:::
+
+- *Por enquanto, não há avisos*.
+
+## Atendimento
+
+Atendimentos devem ser agendados previamente por [e-mail](mailto:{{< var email >}}) e ocorrerão na Sala {{< var atendimento >}}, no bloco da Faculdade de Economia.
+

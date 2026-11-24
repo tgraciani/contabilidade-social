@@ -1,0 +1,566 @@
+/*-- scss:defaults --*/
+
+// ---------------------------------------------------------------
+// Fontes (Google Fonts)
+// Títulos: Playfair Display | Texto: Source Serif 4
+// ---------------------------------------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+// ---------------------------------------------------------------
+// Paleta: azul / cinza / branco
+// ---------------------------------------------------------------
+$navy:        #2c3e50;   // azul-petróleo (títulos, cabeçalhos de tabela)
+$blue:        #3b6ea5;   // azul de destaque (links, marcadores)
+$blue-light:  #e8eff7;   // azul muito claro (fundos de destaque)
+$gray-900:    #1f2933;   // texto principal
+$gray-600:    #5f6b7a;   // texto secundário
+$gray-300:    #d5dbe3;   // bordas
+$gray-100:    #f5f7fa;   // fundos suaves (zebra, código)
+$white:       #ffffff;
+
+$body-bg:     $white;
+$body-color:  $gray-900;
+$primary:     $navy;
+$secondary:   $gray-600;
+$link-color:  $blue;
+$link-hover-color: darken($blue, 12%);
+$link-decoration: none;
+
+// ---------------------------------------------------------------
+// Tipografia
+// ---------------------------------------------------------------
+$font-family-sans-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-family-base:       $font-family-sans-serif;
+$headings-font-family:   "Playfair Display", Georgia, "Times New Roman", serif;
+$headings-font-weight:   600;
+$headings-color:         $navy;
+$font-size-base:         1.05rem;
+$line-height-base:       1.7;
+
+$h1-font-size: 2.2rem;
+$h2-font-size: 1.65rem;
+$h3-font-size: 1.3rem;
+$h4-font-size: 1.1rem;
+
+// ---------------------------------------------------------------
+// Navbar e rodapé
+// ---------------------------------------------------------------
+$navbar-bg:  $white;
+$navbar-fg:  $navy;
+$navbar-hl:  $blue;
+
+// ---------------------------------------------------------------
+// Código
+// ---------------------------------------------------------------
+$code-color: $navy;
+$code-bg:    $gray-100;
+
+
+/*-- scss:rules --*/
+
+// ---------------------------------------------------------------
+// Estrutura geral
+// ---------------------------------------------------------------
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+main.content {
+  max-width: 100%;
+}
+
+p {
+  margin-bottom: 1.1rem;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba($blue, 0.3);
+  transition: border-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    border-bottom-color: $blue;
+  }
+}
+
+// Links de navegação e botões não levam sublinhado
+.navbar a,
+.nav-link,
+.sidebar a,
+.quarto-title-block a,
+#TOC a,
+.page-navigation a,
+.listing-title a {
+  border-bottom: none;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $gray-300;
+  opacity: 1;
+  margin: 2.5rem 0;
+}
+
+// ---------------------------------------------------------------
+// Títulos
+// ---------------------------------------------------------------
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.01em;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+}
+
+h1.title,
+.quarto-title h1.title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid $navy;
+}
+
+.quarto-title .subtitle,
+.subtitle {
+  color: $gray-600;
+  font-style: italic;
+  font-size: 1.15rem;
+}
+
+h2 {
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $gray-300;
+}
+
+h3 {
+  color: $blue;
+}
+
+// ---------------------------------------------------------------
+// Listas: marcador "–" (travessão)
+// ---------------------------------------------------------------
+main.content ul:not(.list-unstyled):not(.nav):not(.navbar-nav):not(.list-inline):not(.pagination) {
+  list-style-type: "–  ";
+  padding-left: 1.4rem;
+
+  li {
+    padding-left: 0.2rem;
+    margin-bottom: 0.3rem;
+
+    &::marker {
+      color: $blue;
+      font-weight: 600;
+    }
+  }
+
+  ul {
+    list-style-type: "·  ";
+  }
+}
+
+main.content ol {
+  padding-left: 1.6rem;
+
+  li {
+    margin-bottom: 0.3rem;
+
+    &::marker {
+      color: $blue;
+      font-weight: 600;
+    }
+  }
+}
+
+// ---------------------------------------------------------------
+// Tabelas
+// ---------------------------------------------------------------
+main.content table {
+  width: 100%;
+  margin: 1.8rem 0;
+  border-collapse: collapse;
+  border-top: 2px solid $navy;
+  border-bottom: 2px solid $navy;
+  font-size: 0.95rem;
+  line-height: 1.5;
+
+  caption {
+    color: $gray-600;
+    font-style: italic;
+    font-size: 0.9rem;
+    padding: 0.6rem 0;
+    caption-side: bottom;
+  }
+
+  thead th {
+    background: transparent;
+    color: $navy;
+    font-family: $headings-font-family;
+    font-weight: 600;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.8rem 0.9rem;
+    border-bottom: 1px solid $navy;
+    border-top: none;
+    vertical-align: bottom;
+  }
+
+  tbody td {
+    padding: 0.75rem 0.9rem;
+    border: none;
+    border-bottom: 1px solid $gray-300;
+    vertical-align: top;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  tbody tr:nth-child(even) td {
+    background: $gray-100;
+  }
+
+  tbody tr:hover td {
+    background: $blue-light;
+  }
+}
+
+// Em telas estreitas, a tabela rola lateralmente em vez de estourar a página
+@media (max-width: 768px) {
+  main.content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 0.9rem;
+  }
+}
+
+// ---------------------------------------------------------------
+// Callouts (úteis como blocos recolhíveis: tópicos, avisos)
+// ---------------------------------------------------------------
+.callout {
+  border: 1px solid $gray-300;
+  border-left-width: 4px;
+  border-radius: 4px;
+  box-shadow: none;
+  margin: 1.2rem 0;
+
+  &.callout-style-default .callout-header {
+    background: $gray-100;
+    font-family: $headings-font-family;
+    font-weight: 600;
+    color: $navy;
+  }
+
+  .callout-body-container {
+    font-size: 0.97rem;
+  }
+
+  &.callout-note      { border-left-color: $blue; }
+  &.callout-tip       { border-left-color: $navy; }
+  &.callout-important { border-left-color: #8a3b3b; }
+  &.callout-warning   { border-left-color: #b8892e; }
+}
+
+// ---------------------------------------------------------------
+// Citações
+// ---------------------------------------------------------------
+blockquote {
+  border-left: 3px solid $blue;
+  margin: 1.5rem 0;
+  padding: 0.3rem 1.2rem;
+  color: $gray-600;
+  font-style: italic;
+}
+
+// ---------------------------------------------------------------
+// Código
+// ---------------------------------------------------------------
+code {
+  font-size: 0.88em;
+  padding: 0.12em 0.35em;
+  border-radius: 3px;
+}
+
+pre {
+  background: $gray-100;
+  border: 1px solid $gray-300;
+  border-radius: 4px;
+  padding: 0.9rem 1rem;
+}
+
+pre code {
+  padding: 0;
+  background: transparent;
+}
+
+// ---------------------------------------------------------------
+// Navbar
+// ---------------------------------------------------------------
+.navbar {
+  background: $white !important;
+  border-bottom: 1px solid $gray-300;
+  box-shadow: none;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  min-height: 0;
+
+  .navbar-logo {
+    height: 2rem;
+    max-height: 2rem;
+    width: auto;
+  }
+
+  .navbar-brand,
+  .navbar-title {
+    font-family: $headings-font-family;
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: $navy;
+    letter-spacing: -0.01em;
+  }
+
+  .nav-link {
+    font-size: 0.95rem;
+    color: $navy;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      color: $blue;
+    }
+
+    &.active {
+      color: $blue;
+      border-bottom-color: $blue;
+    }
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+}
+
+// ---------------------------------------------------------------
+// Botões (ex.: link para pasta do Drive)
+// ---------------------------------------------------------------
+.btn-primary {
+  background-color: $navy;
+  border-color: $navy;
+  border-radius: 3px;
+  font-family: $headings-font-family;
+  font-size: 0.92rem;
+  letter-spacing: 0.03em;
+  padding: 0.55rem 1.3rem;
+  transition: background-color 0.15s ease;
+
+  &:hover,
+  &:focus {
+    background-color: $blue;
+    border-color: $blue;
+  }
+}
+
+.btn-outline-primary {
+  color: $navy;
+  border-color: $navy;
+  border-radius: 3px;
+
+  &:hover {
+    background-color: $navy;
+    border-color: $navy;
+    color: $white;
+  }
+}
+
+// ---------------------------------------------------------------
+// Listagens (útil para quadro de avisos)
+// ---------------------------------------------------------------
+.quarto-listing .listing-date,
+.listing-date {
+  color: $blue;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+}
+
+.quarto-post {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $gray-300;
+}
+
+// ---------------------------------------------------------------
+// Rodapé
+// ---------------------------------------------------------------
+.nav-footer {
+  border-top: 1px solid $gray-300;
+  background: $gray-100;
+  color: $gray-600;
+  font-size: 0.9rem;
+  padding: 1.2rem 0;
+}
+
+// Pasta do Drive incorporada
+.drive-embed {
+  width: 100%;
+  height: 480px;
+  border: 1px solid $gray-300;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+// Parágrafo de conteúdos (mini-ementa)
+.ementa {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: $gray-600;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// Título do tópico (cabeçalho do callout, em qualquer estilo)
+.callout .callout-header .callout-title-container {
+  font-family: $headings-font-family;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: $navy;
+  letter-spacing: -0.01em;
+}
+
+// Rótulos secundários dentro dos callouts
+.rotulo {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  color: $gray-600;
+  margin: 1rem 0 0.4rem;
+}
+
+// Referências em duas colunas
+.refs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 2rem;
+
+  .rotulo { margin-top: 0.2rem; }
+
+  ul { margin-bottom: 0.4rem; }
+
+  // sub-itens (comentários) em tom mais discreto
+  ul ul {
+    font-size: 0.9rem;
+    color: $gray-600;
+  }
+}
+
+@media (max-width: 768px) {
+  .refs {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Objetivos com retrato ao lado
+.objetivos {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 1.2rem 0 2rem;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.legenda {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: $gray-600;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .objetivos {
+    grid-template-columns: 1fr;
+  }
+
+  .objetivos-img {
+    max-width: 170px;
+    margin: 0 auto;
+  }
+}
+
+// margem para ícones dos materiais
+.nav-tabs .nav-link i {
+  margin-right: 0.4rem;
+}
+
+// Texto + fórmula lado a lado
+.media-2col {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 1.2rem 0 2rem;
+
+  p { margin-bottom: 0; }
+}
+
+.media-formula {
+  background: $gray-100;
+  border: 1px solid $gray-300;
+  border-radius: 4px;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  overflow-x: auto;
+
+  .rotulo { margin-top: 0; }
+
+  .math.display { margin: 0.3rem 0 0; }
+}
+
+@media (max-width: 768px) {
+  .media-2col {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Figura histórica com borda de "página de livro" (Home)
+.figura-livro {
+  border: 1px solid $gray-300;
+  box-shadow: 0 1px 4px rgba(31, 41, 51, 0.12);
+}
+
+// Título ao lado da figura, sem a margem superior padrão dos títulos
+.objetivos-texto h1 {
+  margin-top: 0;
+}
+
+// Home: figura vertical, menor e alinhada ao topo
+.objetivos-home {
+  grid-template-columns: 130px 1fr;
+  align-items: start;
+}
+
+@media (max-width: 768px) {
+  .objetivos-home .objetivos-img {
+    max-width: 130px;
+  }
+}
+
+// Imagens ampliáveis (lightbox) não levam sublinhado de link
+a.lightbox {
+  border-bottom: none;
+}

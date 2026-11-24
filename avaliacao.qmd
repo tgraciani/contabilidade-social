@@ -1,0 +1,48 @@
+---
+title: "Avaliação"
+---
+
+
+
+::: {.media-2col}
+
+::: {.media-texto}
+A avaliação é composta de quatro provas. Enquanto as três primeiras têm conteúdo não cumulativo, a última cobre o conteúdo de todo o semestre. Exclusivamente para a $P4$, será permitida a consulta a uma folha de tamanho A4 com anotações escritas à mão pelo próprio estudante.
+:::
+
+::: {.media-formula}
+[Média final]{.rotulo}
+
+$$
+M = \frac{P_1 + P_2 + P_3 + 3\cdot P_4}{6}
+$$
+:::
+
+:::
+
+## Calendário
+
+| Avaliação |    Data    | Peso |
+|:---------:|:----------:|:----:|
+| P1        | 31/03/2027 |  1   |
+| P2        | 28/04/2027 |  1   |
+| P3        | 26/05/2027 |  1   |
+| P4        | 30/06/2027 |  3   |
+
+: {tbl-colwidths="[25,45,30]"}
+
+::: {.callout-warning appearance="simple" icon=false}
+As datas das provas estão sujeitas a alteração. Fique atento a esta página e aos avisos dados em sala de aula.
+:::
+
+## Frequência
+
+A frequência registrada no [Portal Acadêmico da UFMT](https://sistemas.ufmt.br/ufmt.portalsistemas) seguirá estritamente o registro feito por assinatura nas listas disponibilizadas em aula. Nos termos da Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas.
+
+## Aprovação
+
+Será considerado **aprovado** o discente que obtiver média final igual ou superior a 5,0 e possuir, no mínimo, frequência de 75%. Não haverá prova final.
+
+## Segunda Chamada
+
+Será concedida a **avaliação em segunda chamada** apenas nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º).

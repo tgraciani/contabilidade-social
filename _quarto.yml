@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs          # pasta publicada pelo GitHub Pages
+
+lang: pt
+
+website:
+  title: "Contabilidade Social"
+  navbar:
+    pinned: true
+    logo: images/logo.svg
+    logo-alt: "Richard Stone"
+    left:
+      - href: index.qmd
+        text: Início
+      - href: programa.qmd
+        text: Programa
+      - href: materiais.qmd
+        text: Materiais
+      - href: avaliacao.qmd
+        text: Avaliação
+  page-footer:
+    left: "Prof. Thiago Graciani"
+    right: "Faculdade de Economia (FE--UFMT)"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    page-layout: article
+    toc: false
+    link-external-icon: false
+    smooth-scroll: true
+    grid:
+      body-width: 800px
+      margin-width: 220px
+
