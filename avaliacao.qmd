@@ -7,14 +7,14 @@ title: "Avaliação"
 ::: {.media-2col}
 
 ::: {.media-texto}
-A avaliação é composta de quatro provas. Enquanto as três primeiras têm conteúdo não cumulativo, a última cobre o conteúdo de todo o semestre. Exclusivamente para a $P4$, será permitida a consulta a uma folha de tamanho A4 com anotações escritas à mão pelo próprio estudante.
+A avaliação é composta por quatro provas (prosaicamente denominadas $\text{P}_1$, $\text{P}_2$, $\text{P}_3$ e $\text{P}_4$). Enquanto as três primeiras são não cumulativas, a última cobre o conteúdo de todo o semestre. Exclusivamente para a $\text{P}_4$, é permitida a consulta a uma folha de tamanho A4 (frente e verso) com anotações escritas à mão pelo próprio estudante.
 :::
 
 ::: {.media-formula}
-[Média final]{.rotulo}
+[Cálculo da Média Semestral]{.rotulo}
 
 $$
-M = \frac{P_1 + P_2 + P_3 + 3\cdot P_4}{6}
+\text{MS} \doteq \frac{\text{P}_1 + \text{P}_2 + \text{P}_3 + 3 \cdot \text{P}_4}{6}
 $$
 :::
 
@@ -24,10 +24,10 @@ $$
 
 | Avaliação |    Data    | Peso |
 |:---------:|:----------:|:----:|
-| P1        | 31/03/2027 |  1   |
-| P2        | 28/04/2027 |  1   |
-| P3        | 26/05/2027 |  1   |
-| P4        | 30/06/2027 |  3   |
+| $\text{P}_1$        | xx/xx/2027 |  1   |
+| $\text{P}_2$        | xx/xx/2027 |  1   |
+| $\text{P}_3$        | xx/xx/2027 |  1   |
+| $\text{P}_4$        | xx/xx/2027 |  3   |
 
 : {tbl-colwidths="[25,45,30]"}
 
@@ -37,7 +37,7 @@ As datas das provas estão sujeitas a alteração. Fique atento a esta página e
 
 ## Frequência
 
-A frequência registrada no [Portal Acadêmico da UFMT](https://sistemas.ufmt.br/ufmt.portalsistemas) seguirá estritamente o registro feito por assinatura nas listas disponibilizadas em aula. Nos termos da Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas.
+A frequência registrada no [Portal Acadêmico da UFMT](https://sistemas.ufmt.br/ufmt.portalsistemas) seguirá rigorosamente o registro de assinatura feito nas listas disponibilizadas durante o período de aula. Como previsto pela Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas.
 
 ## Aprovação
 
@@ -45,4 +45,4 @@ Será considerado **aprovado** o discente que obtiver média final igual ou supe
 
 ## Segunda Chamada
 
-Será concedida a **avaliação em segunda chamada** apenas nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º).
+Será concedida a **avaliação em segunda chamada** apenas sob justificativa baseada nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º).

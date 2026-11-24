@@ -2,7 +2,7 @@
 title: "Materiais"
 ---
 
-Todos os materiais do curso estão disponíveis em pastas do *Google Drive*, as quais podem ser acessadas aqui sem a necessidade de credenciais institucionais.
+Todos os materiais do curso estão disponíveis em pastas do *Google Drive*, as quais podem ser acessadas sem a necessidade de credenciais institucionais.
 
 ::: {.panel-tabset}
 
