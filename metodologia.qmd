@@ -1,0 +1,28 @@
+---
+title: "Metodologia"
+---
+
+A estrutura do curso---envolvendo a forma de exposição, a ênfase na resolução ativa de exercícios e a avaliação mais diluída---possui suporte em achados da área de Psicologia Cognitiva. Para os interessados, indico referências sobre aprendizagem eficaz ao final desta página (são excelentes leituras para o período de férias).[^1]$^{,}$[^2]
+
+## Anotações
+
+As aulas serão predominantemente expositivo-dialogadas e, como parte da exposição será derivada de referências suplementares mais avançadas, recomenda-se a prática de tomar notas durante os encontros. 
+
+## Leitura das Referências
+
+Um simples "acompanhamento" das aulas frequentemente produz uma *ilusão de competência*: uma sensação imediata de compreensão que não se sustenta quando o estudante precisa *aplicar* o conteúdo de forma autônoma. Nesse contexto, e apesar de não ser mandatória, recomenda-se a leitura das referências básicas listadas na página do [Programa](programa.qmd) antes ou após as aulas.
+
+## Listas de Exercícios e Gabaritos
+
+As listas disponibilizadas na página de [Materiais](materiais.qmd) constituem o núcleo da disciplina e foram calibradas para gerar um atrito cognitivo "desejável". Também são disponibilizados gabaritos para as questões *para fins de verificação e correção* (evidências vêm apontando sistematicamente que a leitura de respostas sem uma tentativa genuína de resolução própria é ineficaz para gerar aprendizado).
+
+## Avaliação Progressiva
+
+A estrutura progressiva de avaliações---com as primeiras detendo um peso menor na composição da média semestral---, descrita na página de [Avaliação](avaliacao.qmd), foi desenhada para incentivar a prática distribuída ao longo do semestre e possibilitar um "recálculo da rota", caso necessário.
+
+Nesse sentido, na ocasião de um resultado "negativo" ou aquém do desejado, há espaço para manobrar uma mudança de estratégia e evitar uma reprovação. Nestes casos, recomenda-se a busca pelo atendimento (vide a respectiva seção na página de [Início](index.qmd)).
+
+Em sua grande maioria, as questões de prova serão baseadas em problemas das Listas de Exercícios para incentivar a devida prática e garantir transparência e previsibilidade quanto ao nível de domínio esperado nas avaliações.
+
+[^1]: Brown, Peter C., Henry L. Roediger III e Mark A. McDaniel. 2014. *Make It Stick: The Science of Successful Learning*. Harvard University Press.
+[^2]: Dunlosky, John, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan e Daniel T. Willingham. 2013. "Improving Students’ Learning with Effective Learning Techniques: Promising Directions from Cognitive and Educational Psychology." *Psychological Science in the Public Interest* 14 (1): 4--58.

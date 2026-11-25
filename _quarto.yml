@@ -15,10 +15,13 @@ website:
         text: Início
       - href: programa.qmd
         text: Programa
+      - href: metodologia.qmd
+        text: Metodologia
       - href: materiais.qmd
         text: Materiais
       - href: avaliacao.qmd
         text: Avaliação
+
   page-footer:
     left: "Prof. Thiago Graciani"
     right: "Faculdade de Economia (FE--UFMT)"

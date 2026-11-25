@@ -20,26 +20,27 @@ Este curso tem dois objetivos desenvolvidos paralelamente: o primeiro, em nível
 
 
 
-## Esrutura Programática
+## Estrutura Programática
 
 ::: {.callout-note collapse="true" appearance="simple" icon=false title="I. Sistema de Contas Nacionais"}
 
 ::: {.refs}
 
 ::: {.refs-col}
-[Referências básicas]{.rotulo}
+[Referências Básicas]{.rotulo}
 
-- Paulani e Braga (2020), Cap. 1, 3 e 4
-- Feijó e Ramos (2017), Cap. 1, 2, 3, 4 e 8
+- Paulani e Braga (2020) · Cap. 1, 3, 4 e 5
+- Feijó e Ramos (2017) · Cap. 1, 2, 3, 4 e 8.
+    - Cobertura similar, mas mais técnica, à de Paulani e Braga (2020). Discute o SCT.
+
 :::
 
 ::: {.refs-col}
-[Referências suplementares]{.rotulo}
+[Referências Suplementares]{.rotulo}
 
-- IBGE (2004)
-- IBGE (2016)
-- IBGE (2026)
-- United Nations Statistics Division (2009)
+- BCB (2016, 2018, 2025)
+- IBGE (2004, 2016, 2026)
+- United Nations (2009)
 :::
 
 :::
@@ -47,7 +48,7 @@ Este curso tem dois objetivos desenvolvidos paralelamente: o primeiro, em nível
 [Conteúdos]{.rotulo}
 
 ::: {.ementa}
-Conceitos básicos da contabilidade social (agregado, identidade, fluxos e estoques); fluxo circular da renda; três óticas do produto; identidade *versus* causalidade; modelo Keynesiano simples; outros agregados do sistema de contas nacionais; identidades contábeis fundamentais; contabilidade real *versus* nominal; deflator do produto; medidas derivadas do produto (PIB *per capita* e PIB PPC); aspectos práticos e limites da mensuração do produto; introdução às contas econômicas integradas; tabela de recursos e usos; sistema de contas trimestrais; especificidades do sistema de contas trimestrais (sazonalização e métricas de crescimento); introdução ao IBC-Br.
+Conceitos básicos da Contabilidade Social (agregado, identidade, fluxo e estoque); fluxo circular da renda; óticas do produto; identidade *versus* causalidade; introdução ao "modelo Keynesiano simples"; outros agregados do Sistema de Contas Nacionais; identidades contábeis fundamentais; contabilidade real *versus* nominal; deflator do produto; medidas derivadas do produto (PIB *per capita* e PIB PPC); aspectos práticos e limites da mensuração do produto; introdução às Contas Econômicas Integradas; Tabela de Recursos e Usos; Sistema de Contas Trimestrais; especificidades dos dados trimestrais e sazonalização; IBC-Br.
 :::
 
 :::
@@ -57,16 +58,25 @@ Conceitos básicos da contabilidade social (agregado, identidade, fluxos e estoq
 ::: {.refs}
 
 ::: {.refs-col}
-[Referências básicas]{.rotulo}
+[Referências Násicas]{.rotulo}
 
-- Paulani e Braga (2020), Cap. 6
-- Feijó e Ramos (2017), Cap. 5
+- Paulani e Braga (2020) · Cap. 6
+- Feijó e Ramos (2017) · Cap. 5
+    - Cobertura similar, mas mais técnica, à de Paulani e Braga (2020).
+- Iudícibus (2011) · Cap. 3
+    - Livro-texto de Contabilidade (aborda o Princípio das Partidas Dobradas formalmente).
+
 :::
 
 ::: {.refs-col}
-[Referências suplementares]{.rotulo}
+[Referências Suplementares]{.rotulo}
 
-- 
+- IMF (2009)
+- Ministério da Economia (2020)
+- Schmitt-Grohé, Uribe e Woodford (2021) · Cap. 4
+- United Nations (2009)
+
+
 :::
 
 :::
@@ -74,7 +84,7 @@ Conceitos básicos da contabilidade social (agregado, identidade, fluxos e estoq
 [Conteúdos]{.rotulo}
 
 ::: {.ementa}
-Definição e princípios fundamentais do balanço de pagamentos (residência econômica e partida dobrada); estrutura do balanço de pagamentos (conta corrente, conta de capital e conta financeira); covenção de sinais e definição dos saldos; registro prático de operações; relações contábeis e articulação com o sistema de contas nacionais; implicações contábeis dos regimes cambiais na dinâmica de reservas; principais indicadores de vulnerabilidade e sustentabilidade externa da economia brasileira; outras estatísticas do setor externo (fluxo cambial; termos de troca; índices de comércio internacional).
+Definição e princípios fundamentais do Balanço de Pagamentos (residência econômica e partida dobrada); estrutura do Balanço de Pagamentos (Conta Corrente, Conta de Capital e Conta Financeira); covenção de sinais e definição dos saldos; registro prático de operações; relações contábeis e articulação com o Sistema de Contas Nacionais; implicações contábeis dos regimes cambiais na dinâmica de reservas; principais indicadores de vulnerabilidade; outras estatísticas do setor externo (fluxo cambial, termos de troca; índices de preço e quantum; índice de abertura comercial).
 :::
 
 :::
@@ -84,16 +94,16 @@ Definição e princípios fundamentais do balanço de pagamentos (residência ec
 ::: {.refs}
 
 ::: {.refs-col}
-[Referências básicas]{.rotulo}
+[Referências Básicas]{.rotulo}
 
-- Paulani e Braga (2020), Cap. 7, 8 e 9
-- Feijó e Ramos (2017), Cap. 6
+- Paulani e Braga (2020) · Cap. 7, 8 e 9
+- Feijó e Ramos (2017) · Cap. 6
 :::
 
 ::: {.refs-col}
-[Referências suplementares]{.rotulo}
+[Referências Suplementares]{.rotulo}
 
-- 
+-
 :::
 
 :::
@@ -111,14 +121,14 @@ Definição funcional da moeda; definições preliminares (sistema emissor e pú
 ::: {.refs}
 
 ::: {.refs-col}
-[Referências básicas]{.rotulo}
+[Referências Básicas]{.rotulo}
 
 - Miller e Blair (2009), Cap. 1 e 2
 - Feijó e Ramos (2017), Cap. 9, 10 e 11
 :::
 
 ::: {.refs-col}
-[Referências suplementares]{.rotulo}
+[Referências Suplementares]{.rotulo}
 
 - 
 :::
@@ -138,13 +148,13 @@ Definição e estrutura dos dados de insumo-produto; articulação com o sistema
 ::: {.refs}
 
 ::: {.refs-col}
-[Referências básicas]{.rotulo}
+[Referências Básicas]{.rotulo}
 
 - 
 :::
 
 ::: {.refs-col}
-[Referências suplementares]{.rotulo}
+[Referências Suplementares]{.rotulo}
 
 - 
 :::
@@ -161,4 +171,4 @@ Conceitos fundamentais da força de trabalho (população em idade de trabalhar,
 
 ## Bibliografia
 
-Nenhum livro-texto específico será "seguido". Para estudar com segurança, consulte as referências indicadas em cada tópico e os conteúdos abordados nas listas de exercícios. Todas as leituras citadas no programa detalhado estão disponíveis na pasta *Referências* da página de [Materiais](materiais.qmd).
+Nenhum livro-texto específico será "seguido". Para estudar com segurança, consulte as referências básicas indicadas em cada tópico no programa: todas estão disponíveis na pasta *Referências* da página de [Materiais](materiais.qmd).

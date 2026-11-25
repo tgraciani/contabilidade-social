@@ -564,3 +564,9 @@ pre code {
 a.lightbox {
   border-bottom: none;
 }
+
+// Esconde o título "Notas de rodapé"
+#footnotes .quarto-appendix-heading,
+#footnotes > h2 {
+  display: none;
+}

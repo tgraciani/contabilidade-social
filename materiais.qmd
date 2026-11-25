@@ -32,7 +32,7 @@ Todos os materiais do curso estão disponíveis em pastas do *Google Drive*, as 
 <iframe class="drive-embed" loading="lazy"
   src="https://drive.google.com/embeddedfolderview?id={{< var drive_provas >}}#list"></iframe>
 
-[Abrir no Drive](https://drive.google.com/drive/folders/{{< var drive_provas >}}){.btn .btn-outline-primary target="_blank"}
+[Abrir no *Drive*](https://drive.google.com/drive/folders/{{< var drive_provas >}}){.btn .btn-outline-primary target="_blank"}
 
 :::
 
@@ -43,3 +43,4 @@ Todos os materiais do curso estão disponíveis em pastas do *Google Drive*, as 
 - [BCB / Sistema Gerenciador de Séries Temporais (SGS)](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)
 - [CRAN / R Project](https://cran.r-project.org/)
 - [RStudio](https://posit.co/downloads)
+- [Ipeadata](https://www.ipeadata.gov.br/Default.aspx)
