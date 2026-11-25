@@ -11,14 +11,14 @@
     "href": "materiais.html#outras-fontes",
     "title": "Materiais",
     "section": "Outras Fontes",
-    "text": "Outras Fontes\n\nIBGE / Sistema de Contas Nacionais\nIBGE / Banco de Tabelas Estatísticas do IBGE (SIDRA)\nBCB / Sistema Gerenciador de Séries Temporais (SGS)\nCRAN / R Project\nRStudio"
+    "text": "Outras Fontes\n\nIBGE / Sistema de Contas Nacionais\nIBGE / Banco de Tabelas Estatísticas do IBGE (SIDRA)\nBCB / Sistema Gerenciador de Séries Temporais (SGS)\nCRAN / R Project\nRStudio\nIpeadata"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Contabilidade Social",
     "section": "",
-    "text": "Esta página é o veículo oficial de comunicação do componente curricular Contabilidade Social ofertado em 2027/1 na Faculdade de Economia da UFMT (FE–UFMT). Para acompanhar os registros de frequência e notas, verifique o Portal Acadêmico da UFMT.\n2027/1 · Prof. Thiago Graciani"
+    "text": "Esta página é o veículo oficial de comunicação do componente curricular Contabilidade Social ofertado em 2027/1 na Faculdade de Economia da UFMT (FE–UFMT). Para acompanhar os registros de frequência e notas, verifique o Portal Acadêmico da UFMT."
   },
   {
     "objectID": "index.html#avisos",
@@ -32,7 +32,7 @@
     "href": "index.html#atendimento",
     "title": "Contabilidade Social",
     "section": "Atendimento",
-    "text": "Atendimento\nAtendimentos devem ser agendados previamente por e-mail e ocorrerão na Sala 306, no bloco da Faculdade de Economia."
+    "text": "Atendimento\nAtendimentos devem ser agendados antecipadamente por e-mail e ocorrerão na Sala 306, no bloco da Faculdade de Economia."
   },
   {
     "objectID": "avaliacao.html",
@@ -49,13 +49,6 @@
     "text": "Calendário\n\n\n\n\n\n\n\n\nAvaliação\nData\nPeso\n\n\n\n\n\\(\\text{P}_1\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_2\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_3\\)\nxx/xx/2027\n1\n\n\n\\(\\text{P}_4\\)\nxx/xx/2027\n3\n\n\n\n\n\n\n\n\n\nAs datas das provas estão sujeitas a alteração. Fique atento a esta página e aos avisos dados em sala de aula."
   },
   {
-    "objectID": "avaliacao.html#frequência",
-    "href": "avaliacao.html#frequência",
-    "title": "Avaliação",
-    "section": "Frequência",
-    "text": "Frequência\nA frequência registrada no Portal Acadêmico da UFMT seguirá rigorosamente o registro de assinatura feito nas listas disponibilizadas durante o período de aula. Como previsto pela Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas."
-  },
-  {
     "objectID": "avaliacao.html#aprovação",
     "href": "avaliacao.html#aprovação",
     "title": "Avaliação",
@@ -70,6 +63,55 @@
     "text": "Segunda Chamada\nSerá concedida a avaliação em segunda chamada apenas sob justificativa baseada nos casos previstos pela Resolução CONSEPE nº 63/2018 (art. 7º)."
   },
   {
+    "objectID": "avaliacao.html#frequência",
+    "href": "avaliacao.html#frequência",
+    "title": "Avaliação",
+    "section": "Frequência",
+    "text": "Frequência\nA frequência registrada no Portal Acadêmico da UFMT seguirá rigorosamente o registro de assinaturas feito durante o horário de aula. Como previsto pela Resolução CONSEPE nº 63/2018 (art. 15, § 3º), não haverá abono de faltas."
+  },
+  {
+    "objectID": "metodologia.html",
+    "href": "metodologia.html",
+    "title": "Metodologia",
+    "section": "",
+    "text": "A estrutura do curso—envolvendo a forma de exposição, a ênfase na resolução ativa de exercícios e a avaliação mais diluída—possui suporte em achados da área de Psicologia Cognitiva. Para os interessados, indico referências sobre aprendizagem eficaz ao final desta página (são excelentes leituras para o período de férias).1\\(^{,}\\)2"
+  },
+  {
+    "objectID": "metodologia.html#anotações",
+    "href": "metodologia.html#anotações",
+    "title": "Metodologia",
+    "section": "Anotações",
+    "text": "Anotações\nAs aulas serão predominantemente expositivo-dialogadas e, como parte da exposição será derivada de referências suplementares mais avançadas, recomenda-se a prática de tomar notas durante os encontros."
+  },
+  {
+    "objectID": "metodologia.html#leitura-das-referências",
+    "href": "metodologia.html#leitura-das-referências",
+    "title": "Metodologia",
+    "section": "Leitura das Referências",
+    "text": "Leitura das Referências\nUm simples “acompanhamento” das aulas frequentemente produz uma ilusão de competência: uma sensação imediata de compreensão que não se sustenta quando o estudante precisa aplicar o conteúdo de forma autônoma. Nesse contexto, e apesar de não ser mandatória, recomenda-se a leitura das referências básicas listadas na página do Programa antes ou após as aulas."
+  },
+  {
+    "objectID": "metodologia.html#listas-de-exercícios-e-gabaritos",
+    "href": "metodologia.html#listas-de-exercícios-e-gabaritos",
+    "title": "Metodologia",
+    "section": "Listas de Exercícios e Gabaritos",
+    "text": "Listas de Exercícios e Gabaritos\nAs listas disponibilizadas na página de Materiais constituem o núcleo da disciplina e foram calibradas para gerar um atrito cognitivo “desejável”. Também são disponibilizados gabaritos para as questões para fins de verificação e correção (evidências vêm apontando sistematicamente que a leitura de respostas sem uma tentativa genuína de resolução própria é ineficaz para gerar aprendizado)."
+  },
+  {
+    "objectID": "metodologia.html#avaliação-progressiva",
+    "href": "metodologia.html#avaliação-progressiva",
+    "title": "Metodologia",
+    "section": "Avaliação Progressiva",
+    "text": "Avaliação Progressiva\nA estrutura progressiva de avaliações—com as primeiras detendo um peso menor na composição da média semestral—, descrita na página de Avaliação, foi desenhada para incentivar a prática distribuída ao longo do semestre e possibilitar um “recálculo da rota”, caso necessário.\nNesse sentido, na ocasião de um resultado “negativo” ou aquém do desejado, há espaço para manobrar uma mudança de estratégia e evitar uma reprovação. Nestes casos, recomenda-se a busca pelo atendimento (vide a respectiva seção na página de Início).\nEm sua grande maioria, as questões de prova serão baseadas em problemas das Listas de Exercícios para incentivar a devida prática e garantir transparência e previsibilidade quanto ao nível de domínio esperado nas avaliações."
+  },
+  {
+    "objectID": "metodologia.html#footnotes",
+    "href": "metodologia.html#footnotes",
+    "title": "Metodologia",
+    "section": "Notas de rodapé",
+    "text": "Notas de rodapé\n\n\nBrown, Peter C., Henry L. Roediger III e Mark A. McDaniel. 2014. Make It Stick: The Science of Successful Learning. Harvard University Press.↩︎\nDunlosky, John, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan e Daniel T. Willingham. 2013. “Improving Students’ Learning with Effective Learning Techniques: Promising Directions from Cognitive and Educational Psychology.” Psychological Science in the Public Interest 14 (1): 4–58.↩︎"
+  },
+  {
     "objectID": "programa.html",
     "href": "programa.html",
     "title": "Programa do Curso",
@@ -77,17 +119,17 @@
     "text": "Richard N. Stone (1913–1991)\n\n\n\nEste curso tem dois objetivos desenvolvidos paralelamente: o primeiro, em nível mais elementar, é aproximar o aluno dos dados macroeconômicos, elucidando “de onde vêm” e “como são feitos”, para os interpretar corretamente em debates econômicos; o segundo é preparar o discente para o componente de Macroeconomia I, introduzindo-o às ideias básicas de modelagem (e distinguindo, na prática, as relações entre os dados e as relações de Teoria Macroeconômica)."
   },
   {
-    "objectID": "programa.html#esrutura-programática",
-    "href": "programa.html#esrutura-programática",
+    "objectID": "programa.html#estrutura-programática",
+    "href": "programa.html#estrutura-programática",
     "title": "Programa do Curso",
-    "section": "Esrutura Programática",
-    "text": "Esrutura Programática\n\n\n\n\n\n\nNotaI. Sistema de Contas Nacionais\n\n\n\n\n\n\n\nReferências básicas\n\nPaulani e Braga (2020), Cap. 1, 3 e 4\nFeijó e Ramos (2017), Cap. 1, 2, 3, 4 e 8\n\n\n\nReferências suplementares\n\nIBGE (2004)\nIBGE (2016)\nIBGE (2026)\nUnited Nations Statistics Division (2009)\n\n\n\nConteúdos\n\nConceitos básicos da contabilidade social (agregado, identidade, fluxos e estoques); fluxo circular da renda; três óticas do produto; identidade versus causalidade; modelo Keynesiano simples; outros agregados do sistema de contas nacionais; identidades contábeis fundamentais; contabilidade real versus nominal; deflator do produto; medidas derivadas do produto (PIB per capita e PIB PPC); aspectos práticos e limites da mensuração do produto; introdução às contas econômicas integradas; tabela de recursos e usos; sistema de contas trimestrais; especificidades do sistema de contas trimestrais (sazonalização e métricas de crescimento); introdução ao IBC-Br.\n\n\n\n\n\n\n\n\n\n\nNotaII. Balanço de Pagamentos\n\n\n\n\n\n\n\nReferências básicas\n\nPaulani e Braga (2020), Cap. 6\nFeijó e Ramos (2017), Cap. 5\n\n\n\nReferências suplementares\n\n\n\n\n\nConteúdos\n\nDefinição e princípios fundamentais do balanço de pagamentos (residência econômica e partida dobrada); estrutura do balanço de pagamentos (conta corrente, conta de capital e conta financeira); covenção de sinais e definição dos saldos; registro prático de operações; relações contábeis e articulação com o sistema de contas nacionais; implicações contábeis dos regimes cambiais na dinâmica de reservas; principais indicadores de vulnerabilidade e sustentabilidade externa da economia brasileira; outras estatísticas do setor externo (fluxo cambial; termos de troca; índices de comércio internacional).\n\n\n\n\n\n\n\n\n\n\nNotaIII. Sistema Monetário\n\n\n\n\n\n\n\nReferências básicas\n\nPaulani e Braga (2020), Cap. 7, 8 e 9\nFeijó e Ramos (2017), Cap. 6\n\n\n\nReferências suplementares\n\n\n\n\n\nConteúdos\n\nDefinição funcional da moeda; definições preliminares (sistema emissor e público); definição dos agregados monetários; introdução às contas monetárias (balancetes do Banco Central e dos bancos comerciais); criação e destruição de meios de pagamento; funções do Banco Central e instrumentos clássicos de controle monetário (compulsório, redesconto de liquidez e mercado aberto); ; operacionalização da política monetária (mercado de reservas, meta da taxa Selic e taxa Selic efetiva); modelo do multiplicador monetário; Teoria Quantitativa da Moeda.\n\n\n\n\n\n\n\n\n\n\nNotaIV. Matriz Insumo-Produto\n\n\n\n\n\n\n\nReferências básicas\n\nMiller e Blair (2009), Cap. 1 e 2\nFeijó e Ramos (2017), Cap. 9, 10 e 11\n\n\n\nReferências suplementares\n\n\n\n\n\nConteúdos\n\nDefinição e estrutura dos dados de insumo-produto; articulação com o sistema de contas nacionais; principais fontes de dados brasileiras e internacionais; notação e relações fundamentais do modelo de Leontief; matriz de coeficientes técnicos e matriz inversa de Leontief; exemplos numéricos de estática comparativa; invertibilidade e condições de Hawkins-Simon; aproximação por série de potências; modelo aberto versus fechado para as famílias; análise de multiplicadores; índices de ligação de Rasmussen-Hirschman; introdução à análise de insumo-produto ambiental.\n\n\n\n\n\n\n\n\n\n\nNotaV. Indicadores do Mercado de Trabalho\n\n\n\n\n\n\n\nReferências básicas\n\n\n\n\n\nReferências suplementares\n\n\n\n\n\nConteúdos\n\nConceitos fundamentais da força de trabalho (população em idade de trabalhar, força de trabalho, ocupação, desocupação e desalento); métricas analíticas do mercado de trabalho (taxa de participação, taxa de desocupação e taxa composta de subutilização); pesquisa amostral contínua versus registro administrativo (PNAD Contínua versus Novo CAGED); indicadores de rendimento e custo do trabalho (rendimento médio real habitual versus efetivo e massa de rendimento real); modelagem da demanda e da oferta de trabalho; introdução à taxa natural de desemprego; introdução a indicadores sintéticos de bem-estar social."
+    "section": "Estrutura Programática",
+    "text": "Estrutura Programática\n\n\n\n\n\n\nNotaI. Sistema de Contas Nacionais\n\n\n\n\n\n\n\nReferências Básicas\n\nPaulani e Braga (2020) · Cap. 1, 3, 4 e 5\nFeijó e Ramos (2017) · Cap. 1, 2, 3, 4 e 8.\n\nCobertura similar, mas mais técnica, à de Paulani e Braga (2020). Discute o SCT.\n\n\n\n\nReferências Suplementares\n\nBCB (2016, 2018, 2025)\nIBGE (2004, 2016, 2026)\nUnited Nations (2009)\n\n\n\nConteúdos\n\nConceitos básicos da Contabilidade Social (agregado, identidade, fluxo e estoque); fluxo circular da renda; óticas do produto; identidade versus causalidade; introdução ao “modelo Keynesiano simples”; outros agregados do Sistema de Contas Nacionais; identidades contábeis fundamentais; contabilidade real versus nominal; deflator do produto; medidas derivadas do produto (PIB per capita e PIB PPC); aspectos práticos e limites da mensuração do produto; introdução às Contas Econômicas Integradas; Tabela de Recursos e Usos; Sistema de Contas Trimestrais; especificidades dos dados trimestrais e sazonalização; IBC-Br.\n\n\n\n\n\n\n\n\n\n\nNotaII. Balanço de Pagamentos\n\n\n\n\n\n\n\nReferências Násicas\n\nPaulani e Braga (2020) · Cap. 6\nFeijó e Ramos (2017) · Cap. 5\n\nCobertura similar, mas mais técnica, à de Paulani e Braga (2020).\n\nIudícibus (2011) · Cap. 3\n\nLivro-texto de Contabilidade (aborda o Princípio das Partidas Dobradas formalmente).\n\n\n\n\nReferências Suplementares\n\nIMF (2009)\nMinistério da Economia (2020)\nSchmitt-Grohé, Uribe e Woodford (2021) · Cap. 4\nUnited Nations (2009)\n\n\n\nConteúdos\n\nDefinição e princípios fundamentais do Balanço de Pagamentos (residência econômica e partida dobrada); estrutura do Balanço de Pagamentos (Conta Corrente, Conta de Capital e Conta Financeira); covenção de sinais e definição dos saldos; registro prático de operações; relações contábeis e articulação com o Sistema de Contas Nacionais; implicações contábeis dos regimes cambiais na dinâmica de reservas; principais indicadores de vulnerabilidade; outras estatísticas do setor externo (fluxo cambial, termos de troca; índices de preço e quantum; índice de abertura comercial).\n\n\n\n\n\n\n\n\n\n\nNotaIII. Sistema Monetário\n\n\n\n\n\n\n\nReferências Básicas\n\nPaulani e Braga (2020) · Cap. 7, 8 e 9\nFeijó e Ramos (2017) · Cap. 6\n\n\n\nReferências Suplementares\n\n\n\n\n\nConteúdos\n\nDefinição funcional da moeda; definições preliminares (sistema emissor e público); definição dos agregados monetários; introdução às contas monetárias (balancetes do Banco Central e dos bancos comerciais); criação e destruição de meios de pagamento; funções do Banco Central e instrumentos clássicos de controle monetário (compulsório, redesconto de liquidez e mercado aberto); ; operacionalização da política monetária (mercado de reservas, meta da taxa Selic e taxa Selic efetiva); modelo do multiplicador monetário; Teoria Quantitativa da Moeda.\n\n\n\n\n\n\n\n\n\n\nNotaIV. Matriz Insumo-Produto\n\n\n\n\n\n\n\nReferências Básicas\n\nMiller e Blair (2009), Cap. 1 e 2\nFeijó e Ramos (2017), Cap. 9, 10 e 11\n\n\n\nReferências Suplementares\n\n\n\n\n\nConteúdos\n\nDefinição e estrutura dos dados de insumo-produto; articulação com o sistema de contas nacionais; principais fontes de dados brasileiras e internacionais; notação e relações fundamentais do modelo de Leontief; matriz de coeficientes técnicos e matriz inversa de Leontief; exemplos numéricos de estática comparativa; invertibilidade e condições de Hawkins-Simon; aproximação por série de potências; modelo aberto versus fechado para as famílias; análise de multiplicadores; índices de ligação de Rasmussen-Hirschman; introdução à análise de insumo-produto ambiental.\n\n\n\n\n\n\n\n\n\n\nNotaV. Indicadores do Mercado de Trabalho\n\n\n\n\n\n\n\nReferências Básicas\n\n\n\n\n\nReferências Suplementares\n\n\n\n\n\nConteúdos\n\nConceitos fundamentais da força de trabalho (população em idade de trabalhar, força de trabalho, ocupação, desocupação e desalento); métricas analíticas do mercado de trabalho (taxa de participação, taxa de desocupação e taxa composta de subutilização); pesquisa amostral contínua versus registro administrativo (PNAD Contínua versus Novo CAGED); indicadores de rendimento e custo do trabalho (rendimento médio real habitual versus efetivo e massa de rendimento real); modelagem da demanda e da oferta de trabalho; introdução à taxa natural de desemprego; introdução a indicadores sintéticos de bem-estar social."
   },
   {
     "objectID": "programa.html#bibliografia",
     "href": "programa.html#bibliografia",
     "title": "Programa do Curso",
     "section": "Bibliografia",
-    "text": "Bibliografia\nNenhum livro-texto específico será “seguido”. Para estudar com segurança, consulte as referências indicadas em cada tópico e os conteúdos abordados nas listas de exercícios. Todas as leituras citadas no programa detalhado estão disponíveis na pasta Referências da página de Materiais."
+    "text": "Bibliografia\nNenhum livro-texto específico será “seguido”. Para estudar com segurança, consulte as referências básicas indicadas em cada tópico no programa: todas estão disponíveis na pasta Referências da página de Materiais."
   }
 ]
